@@ -1,0 +1,5 @@
+﻿  pch.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\atlmfc\include\afxwin1.inl(539,36): error C2039: 'Rectangle': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\atlmfc\include\afxwin1.inl(539,67): error C2661: 'CDC::Rectangle': no overloaded function takes 5 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\atlmfc\include\afxwin1.inl(541,36): error C2039: 'Rectangle': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\atlmfc\include\afxwin1.inl(541,45): error C2661: 'CDC::Rectangle': no overloaded function takes 5 arguments

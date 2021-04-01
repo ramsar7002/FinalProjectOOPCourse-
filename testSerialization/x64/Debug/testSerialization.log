@@ -1,0 +1,9 @@
+﻿  testSerializationDlg.cpp
+C:\Users\krukv\source\repos\MFC Final Project\Final Project-21.09.20\testSerialization\testSerializationDlg.cpp(23,6): warning C4101: 'm_ind': unreferenced local variable
+C:\Users\krukv\source\repos\MFC Final Project\Final Project-21.09.20\testSerialization\testSerializationDlg.cpp(126,17): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\krukv\source\repos\MFC Final Project\Final Project-21.09.20\testSerialization\testSerializationDlg.cpp(141,38): warning C4244: '=': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\krukv\source\repos\MFC Final Project\Final Project-21.09.20\testSerialization\testSerializationDlg.cpp(274,13): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\krukv\source\repos\MFC Final Project\Final Project-21.09.20\testSerialization\testSerializationDlg.cpp(340,10): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\krukv\source\repos\MFC Final Project\Final Project-21.09.20\testSerialization\testSerializationDlg.cpp(348,12): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+C:\Users\krukv\source\repos\MFC Final Project\Final Project-21.09.20\testSerialization\testSerializationDlg.cpp(366,10): warning C4244: 'initializing': conversion from 'INT_PTR' to 'int', possible loss of data
+  testSerialization.vcxproj -> C:\Users\krukv\source\repos\MFC Final Project\Final Project-21.09.20\x64\Debug\testSerialization.exe
